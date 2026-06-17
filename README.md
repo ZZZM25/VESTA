@@ -1,13 +1,13 @@
 # VESTA 实验代码
 
-链下实验:事实集/完备元素构造、VO 构造、验证(对应论文第5章;不含链上部分)。
+链下实验:事实集/完备元素构造、VO 构造、验证。
 
 ## 运行
 
 ```bash
 pip install gmpy2 matplotlib numpy
-python experiments/run.py --exp all          # 全量(约15分钟)
-python experiments/run.py --exp e1 --sizes 500 --reps 2   # 快速冒烟
+python experiments/run.py --exp all         
+python experiments/run.py --exp e1 --sizes 500 --reps 2   
 ```
 
 输出:`results/*.csv`(原始数据)、`figs/*.png`(300dpi)、`results/e6_leakage.tex`(LaTeX 表)。
