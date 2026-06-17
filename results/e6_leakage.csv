@@ -1,0 +1,13 @@
+request,answer,VESTA_records,VESTA_hashes,MHT_records,MHT_hashes
+eligible,positive,0,0,0,13
+eligible,negative,0,0,2,26
+assign,positive,0,0,0,13
+assign,negative,0,0,2,26
+priority(val),positive,0,0,0,13
+priority(val),negative,0,0,2,26
+load(val),positive,0,0,0,13
+load(val),negative,0,0,2,26
+task,positive,0,0,0,13
+task,negative,0,0,2,26
+done,positive,0,0,0,13
+done,negative,0,0,2,26

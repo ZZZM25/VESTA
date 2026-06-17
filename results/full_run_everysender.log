@@ -1,0 +1,327 @@
+[E1] ADS construction time (EverySender)
+  E1 n=500 rep=0 VESTA: 196.2 ms
+  E1 n=500 rep=0 MHT: 8.3 ms
+  E1 n=500 rep=0 SMT: 875.1 ms
+  E1 n=500 rep=1 VESTA: 229.7 ms
+  E1 n=500 rep=1 MHT: 2.7 ms
+  E1 n=500 rep=1 SMT: 382.8 ms
+  E1 n=500 rep=2 VESTA: 208.5 ms
+  E1 n=500 rep=2 MHT: 4.6 ms
+  E1 n=500 rep=2 SMT: 348.3 ms
+  E1 n=500 rep=3 VESTA: 285.0 ms
+  E1 n=500 rep=3 MHT: 2.8 ms
+  E1 n=500 rep=3 SMT: 326.0 ms
+  E1 n=500 rep=4 VESTA: 235.7 ms
+  E1 n=500 rep=4 MHT: 1.8 ms
+  E1 n=500 rep=4 SMT: 553.7 ms
+  E1 n=500 rep=5 VESTA: 203.3 ms
+  E1 n=500 rep=5 MHT: 3.0 ms
+  E1 n=500 rep=5 SMT: 881.2 ms
+  E1 n=500 rep=6 VESTA: 183.5 ms
+  E1 n=500 rep=6 MHT: 1.9 ms
+  E1 n=500 rep=6 SMT: 552.5 ms
+  E1 n=500 rep=7 VESTA: 290.3 ms
+  E1 n=500 rep=7 MHT: 3.7 ms
+  E1 n=500 rep=7 SMT: 789.3 ms
+  E1 n=500 rep=8 VESTA: 258.4 ms
+  E1 n=500 rep=8 MHT: 3.9 ms
+  E1 n=500 rep=8 SMT: 449.3 ms
+  E1 n=500 rep=9 VESTA: 643.1 ms
+  E1 n=500 rep=9 MHT: 1.8 ms
+  E1 n=500 rep=9 SMT: 447.8 ms
+  E1 n=1000 rep=0 VESTA: 328.7 ms
+  E1 n=1000 rep=0 MHT: 10.0 ms
+  E1 n=1000 rep=0 SMT: 950.7 ms
+  E1 n=1000 rep=1 VESTA: 438.3 ms
+  E1 n=1000 rep=1 MHT: 8.9 ms
+  E1 n=1000 rep=1 SMT: 484.6 ms
+  E1 n=1000 rep=2 VESTA: 281.7 ms
+  E1 n=1000 rep=2 MHT: 3.0 ms
+  E1 n=1000 rep=2 SMT: 394.4 ms
+  E1 n=1000 rep=3 VESTA: 275.9 ms
+  E1 n=1000 rep=3 MHT: 3.0 ms
+  E1 n=1000 rep=3 SMT: 381.3 ms
+  E1 n=1000 rep=4 VESTA: 255.8 ms
+  E1 n=1000 rep=4 MHT: 3.3 ms
+  E1 n=1000 rep=4 SMT: 387.1 ms
+  E1 n=1000 rep=5 VESTA: 259.0 ms
+  E1 n=1000 rep=5 MHT: 2.9 ms
+  E1 n=1000 rep=5 SMT: 365.3 ms
+  E1 n=1000 rep=6 VESTA: 259.3 ms
+  E1 n=1000 rep=6 MHT: 3.3 ms
+  E1 n=1000 rep=6 SMT: 365.4 ms
+  E1 n=1000 rep=7 VESTA: 278.7 ms
+  E1 n=1000 rep=7 MHT: 3.2 ms
+  E1 n=1000 rep=7 SMT: 365.6 ms
+  E1 n=1000 rep=8 VESTA: 262.4 ms
+  E1 n=1000 rep=8 MHT: 3.4 ms
+  E1 n=1000 rep=8 SMT: 386.1 ms
+  E1 n=1000 rep=9 VESTA: 260.4 ms
+  E1 n=1000 rep=9 MHT: 3.4 ms
+  E1 n=1000 rep=9 SMT: 372.9 ms
+  E1 n=2000 rep=0 VESTA: 500.7 ms
+  E1 n=2000 rep=0 MHT: 6.4 ms
+  E1 n=2000 rep=0 SMT: 790.7 ms
+  E1 n=2000 rep=1 VESTA: 568.4 ms
+  E1 n=2000 rep=1 MHT: 6.8 ms
+  E1 n=2000 rep=1 SMT: 801.1 ms
+  E1 n=2000 rep=2 VESTA: 518.3 ms
+  E1 n=2000 rep=2 MHT: 6.1 ms
+  E1 n=2000 rep=2 SMT: 744.8 ms
+  E1 n=2000 rep=3 VESTA: 518.9 ms
+  E1 n=2000 rep=3 MHT: 7.1 ms
+  E1 n=2000 rep=3 SMT: 790.4 ms
+  E1 n=2000 rep=4 VESTA: 526.5 ms
+  E1 n=2000 rep=4 MHT: 7.6 ms
+  E1 n=2000 rep=4 SMT: 924.3 ms
+  E1 n=2000 rep=5 VESTA: 777.6 ms
+  E1 n=2000 rep=5 MHT: 7.5 ms
+  E1 n=2000 rep=5 SMT: 978.3 ms
+  E1 n=2000 rep=6 VESTA: 733.0 ms
+  E1 n=2000 rep=6 MHT: 7.2 ms
+  E1 n=2000 rep=6 SMT: 958.9 ms
+  E1 n=2000 rep=7 VESTA: 645.6 ms
+  E1 n=2000 rep=7 MHT: 8.6 ms
+  E1 n=2000 rep=7 SMT: 947.6 ms
+  E1 n=2000 rep=8 VESTA: 634.8 ms
+  E1 n=2000 rep=8 MHT: 6.6 ms
+  E1 n=2000 rep=8 SMT: 1057.1 ms
+  E1 n=2000 rep=9 VESTA: 733.7 ms
+  E1 n=2000 rep=9 MHT: 12.6 ms
+  E1 n=2000 rep=9 SMT: 1034.9 ms
+  E1 n=5000 rep=0 VESTA: 1581.6 ms
+  E1 n=5000 rep=0 MHT: 20.1 ms
+  E1 n=5000 rep=0 SMT: 2731.0 ms
+  E1 n=5000 rep=1 VESTA: 1681.2 ms
+  E1 n=5000 rep=1 MHT: 25.6 ms
+  E1 n=5000 rep=1 SMT: 2801.5 ms
+  E1 n=5000 rep=2 VESTA: 1640.5 ms
+  E1 n=5000 rep=2 MHT: 19.3 ms
+  E1 n=5000 rep=2 SMT: 2529.6 ms
+  E1 n=5000 rep=3 VESTA: 1649.2 ms
+  E1 n=5000 rep=3 MHT: 32.9 ms
+  E1 n=5000 rep=3 SMT: 2750.0 ms
+  E1 n=5000 rep=4 VESTA: 1606.7 ms
+  E1 n=5000 rep=4 MHT: 19.3 ms
+  E1 n=5000 rep=4 SMT: 2606.6 ms
+  E1 n=5000 rep=5 VESTA: 2266.3 ms
+  E1 n=5000 rep=5 MHT: 29.3 ms
+  E1 n=5000 rep=5 SMT: 3986.6 ms
+  E1 n=5000 rep=6 VESTA: 1473.3 ms
+  E1 n=5000 rep=6 MHT: 19.7 ms
+  E1 n=5000 rep=6 SMT: 3201.0 ms
+  E1 n=5000 rep=7 VESTA: 2126.1 ms
+  E1 n=5000 rep=7 MHT: 31.3 ms
+  E1 n=5000 rep=7 SMT: 6831.8 ms
+  E1 n=5000 rep=8 VESTA: 3750.5 ms
+  E1 n=5000 rep=8 MHT: 239.9 ms
+  E1 n=5000 rep=8 SMT: 16631.1 ms
+  E1 n=5000 rep=9 VESTA: 4580.7 ms
+  E1 n=5000 rep=9 MHT: 52.4 ms
+  E1 n=5000 rep=9 SMT: 10594.6 ms
+  E1 n=10000 rep=0 VESTA: 4647.9 ms
+  E1 n=10000 rep=0 MHT: 275.9 ms
+  E1 n=10000 rep=0 SMT: 31525.1 ms
+  E1 n=10000 rep=1 VESTA: 11322.2 ms
+  E1 n=10000 rep=1 MHT: 199.0 ms
+  E1 n=10000 rep=1 SMT: 17067.8 ms
+  E1 n=10000 rep=2 VESTA: 3327.1 ms
+  E1 n=10000 rep=2 MHT: 43.9 ms
+  E1 n=10000 rep=2 SMT: 4401.2 ms
+  E1 n=10000 rep=3 VESTA: 2982.6 ms
+  E1 n=10000 rep=3 MHT: 36.5 ms
+  E1 n=10000 rep=3 SMT: 5304.5 ms
+  E1 n=10000 rep=4 VESTA: 3382.8 ms
+  E1 n=10000 rep=4 MHT: 39.3 ms
+  E1 n=10000 rep=4 SMT: 4742.2 ms
+  E1 n=10000 rep=5 VESTA: 3301.8 ms
+  E1 n=10000 rep=5 MHT: 43.3 ms
+  E1 n=10000 rep=5 SMT: 5323.2 ms
+  E1 n=10000 rep=6 VESTA: 3728.9 ms
+  E1 n=10000 rep=6 MHT: 71.6 ms
+  E1 n=10000 rep=6 SMT: 10137.2 ms
+  E1 n=10000 rep=7 VESTA: 4571.2 ms
+  E1 n=10000 rep=7 MHT: 151.8 ms
+  E1 n=10000 rep=7 SMT: 10994.6 ms
+  E1 n=10000 rep=8 VESTA: 4717.8 ms
+  E1 n=10000 rep=8 MHT: 99.5 ms
+  E1 n=10000 rep=8 SMT: 10907.7 ms
+  E1 n=10000 rep=9 VESTA: 3921.8 ms
+  E1 n=10000 rep=9 MHT: 141.5 ms
+  E1 n=10000 rep=9 SMT: 8913.9 ms
+  saved results\e1_build_EverySender.csv (150 rows)
+  saved figs/e1_build_EverySender.png
+[E2/3/4] VO generation / verification / size (EverySender)
+  E234 n=500 rep=0 VESTA: done
+  E234 n=500 rep=0 MHT: done
+  E234 n=500 rep=0 SMT: done
+  E234 n=500 rep=1 VESTA: done
+  E234 n=500 rep=1 MHT: done
+  E234 n=500 rep=1 SMT: done
+  E234 n=500 rep=2 VESTA: done
+  E234 n=500 rep=2 MHT: done
+  E234 n=500 rep=2 SMT: done
+  E234 n=500 rep=3 VESTA: done
+  E234 n=500 rep=3 MHT: done
+  E234 n=500 rep=3 SMT: done
+  E234 n=500 rep=4 VESTA: done
+  E234 n=500 rep=4 MHT: done
+  E234 n=500 rep=4 SMT: done
+  E234 n=500 rep=5 VESTA: done
+  E234 n=500 rep=5 MHT: done
+  E234 n=500 rep=5 SMT: done
+  E234 n=500 rep=6 VESTA: done
+  E234 n=500 rep=6 MHT: done
+  E234 n=500 rep=6 SMT: done
+  E234 n=500 rep=7 VESTA: done
+  E234 n=500 rep=7 MHT: done
+  E234 n=500 rep=7 SMT: done
+  E234 n=500 rep=8 VESTA: done
+  E234 n=500 rep=8 MHT: done
+  E234 n=500 rep=8 SMT: done
+  E234 n=500 rep=9 VESTA: done
+  E234 n=500 rep=9 MHT: done
+  E234 n=500 rep=9 SMT: done
+  E234 n=1000 rep=0 VESTA: done
+  E234 n=1000 rep=0 MHT: done
+  E234 n=1000 rep=0 SMT: done
+  E234 n=1000 rep=1 VESTA: done
+  E234 n=1000 rep=1 MHT: done
+  E234 n=1000 rep=1 SMT: done
+  E234 n=1000 rep=2 VESTA: done
+  E234 n=1000 rep=2 MHT: done
+  E234 n=1000 rep=2 SMT: done
+  E234 n=1000 rep=3 VESTA: done
+  E234 n=1000 rep=3 MHT: done
+  E234 n=1000 rep=3 SMT: done
+  E234 n=1000 rep=4 VESTA: done
+  E234 n=1000 rep=4 MHT: done
+  E234 n=1000 rep=4 SMT: done
+  E234 n=1000 rep=5 VESTA: done
+  E234 n=1000 rep=5 MHT: done
+  E234 n=1000 rep=5 SMT: done
+  E234 n=1000 rep=6 VESTA: done
+  E234 n=1000 rep=6 MHT: done
+  E234 n=1000 rep=6 SMT: done
+  E234 n=1000 rep=7 VESTA: done
+  E234 n=1000 rep=7 MHT: done
+  E234 n=1000 rep=7 SMT: done
+  E234 n=1000 rep=8 VESTA: done
+  E234 n=1000 rep=8 MHT: done
+  E234 n=1000 rep=8 SMT: done
+  E234 n=1000 rep=9 VESTA: done
+  E234 n=1000 rep=9 MHT: done
+  E234 n=1000 rep=9 SMT: done
+  E234 n=2000 rep=0 VESTA: done
+  E234 n=2000 rep=0 MHT: done
+  E234 n=2000 rep=0 SMT: done
+  E234 n=2000 rep=1 VESTA: done
+  E234 n=2000 rep=1 MHT: done
+  E234 n=2000 rep=1 SMT: done
+  E234 n=2000 rep=2 VESTA: done
+  E234 n=2000 rep=2 MHT: done
+  E234 n=2000 rep=2 SMT: done
+  E234 n=2000 rep=3 VESTA: done
+  E234 n=2000 rep=3 MHT: done
+  E234 n=2000 rep=3 SMT: done
+  E234 n=2000 rep=4 VESTA: done
+  E234 n=2000 rep=4 MHT: done
+  E234 n=2000 rep=4 SMT: done
+  E234 n=2000 rep=5 VESTA: done
+  E234 n=2000 rep=5 MHT: done
+  E234 n=2000 rep=5 SMT: done
+  E234 n=2000 rep=6 VESTA: done
+  E234 n=2000 rep=6 MHT: done
+  E234 n=2000 rep=6 SMT: done
+  E234 n=2000 rep=7 VESTA: done
+  E234 n=2000 rep=7 MHT: done
+  E234 n=2000 rep=7 SMT: done
+  E234 n=2000 rep=8 VESTA: done
+  E234 n=2000 rep=8 MHT: done
+  E234 n=2000 rep=8 SMT: done
+  E234 n=2000 rep=9 VESTA: done
+  E234 n=2000 rep=9 MHT: done
+  E234 n=2000 rep=9 SMT: done
+  E234 n=5000 rep=0 VESTA: done
+  E234 n=5000 rep=0 MHT: done
+  E234 n=5000 rep=0 SMT: done
+  E234 n=5000 rep=1 VESTA: done
+  E234 n=5000 rep=1 MHT: done
+  E234 n=5000 rep=1 SMT: done
+  E234 n=5000 rep=2 VESTA: done
+  E234 n=5000 rep=2 MHT: done
+  E234 n=5000 rep=2 SMT: done
+  E234 n=5000 rep=3 VESTA: done
+  E234 n=5000 rep=3 MHT: done
+  E234 n=5000 rep=3 SMT: done
+  E234 n=5000 rep=4 VESTA: done
+  E234 n=5000 rep=4 MHT: done
+  E234 n=5000 rep=4 SMT: done
+  E234 n=5000 rep=5 VESTA: done
+  E234 n=5000 rep=5 MHT: done
+  E234 n=5000 rep=5 SMT: done
+  E234 n=5000 rep=6 VESTA: done
+  E234 n=5000 rep=6 MHT: done
+  E234 n=5000 rep=6 SMT: done
+  E234 n=5000 rep=7 VESTA: done
+  E234 n=5000 rep=7 MHT: done
+  E234 n=5000 rep=7 SMT: done
+  E234 n=5000 rep=8 VESTA: done
+  E234 n=5000 rep=8 MHT: done
+  E234 n=5000 rep=8 SMT: done
+  E234 n=5000 rep=9 VESTA: done
+  E234 n=5000 rep=9 MHT: done
+  E234 n=5000 rep=9 SMT: done
+  E234 n=10000 rep=0 VESTA: done
+  E234 n=10000 rep=0 MHT: done
+  E234 n=10000 rep=0 SMT: done
+  E234 n=10000 rep=1 VESTA: done
+  E234 n=10000 rep=1 MHT: done
+  E234 n=10000 rep=1 SMT: done
+  E234 n=10000 rep=2 VESTA: done
+  E234 n=10000 rep=2 MHT: done
+  E234 n=10000 rep=2 SMT: done
+  E234 n=10000 rep=3 VESTA: done
+  E234 n=10000 rep=3 MHT: done
+  E234 n=10000 rep=3 SMT: done
+  E234 n=10000 rep=4 VESTA: done
+  E234 n=10000 rep=4 MHT: done
+  E234 n=10000 rep=4 SMT: done
+  E234 n=10000 rep=5 VESTA: done
+  E234 n=10000 rep=5 MHT: done
+  E234 n=10000 rep=5 SMT: done
+  E234 n=10000 rep=6 VESTA: done
+  E234 n=10000 rep=6 MHT: done
+  E234 n=10000 rep=6 SMT: done
+  E234 n=10000 rep=7 VESTA: done
+  E234 n=10000 rep=7 MHT: done
+  E234 n=10000 rep=7 SMT: done
+  E234 n=10000 rep=8 VESTA: done
+  E234 n=10000 rep=8 MHT: done
+  E234 n=10000 rep=8 SMT: done
+  E234 n=10000 rep=9 VESTA: done
+  E234 n=10000 rep=9 MHT: done
+  E234 n=10000 rep=9 SMT: done
+  saved results\e2_vogen_EverySender.csv (300 rows)
+  saved results\e3_verify_EverySender.csv (300 rows)
+  saved results\e4_vosize_EverySender.csv (300 rows)
+  saved figs/e2_vogen_EverySender.png
+  saved figs/e3_verify_EverySender.png
+  saved figs/e4_vosize_EverySender.png
+[E5] Update time (EverySender, base round = 5000 facts)
+  E5 rep=0: done
+  E5 rep=1: done
+  E5 rep=2: done
+  E5 rep=3: done
+  E5 rep=4: done
+  E5 rep=5: done
+  E5 rep=6: done
+  E5 rep=7: done
+  E5 rep=8: done
+  E5 rep=9: done
+  saved results\e5_update_EverySender.csv (150 rows)
+  saved figs/e5_update_EverySender.png
+[E6] Leakage table (n = 5000)
+  saved results\e6_leakage.csv (12 rows)
+  saved results/e6_leakage.tex
+Total wall time: 2033.9s

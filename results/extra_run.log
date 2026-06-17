@@ -1,0 +1,79 @@
+[A1] violation bundle (gMission)
+  A1-violation n=500: done
+  A1-violation n=1000: done
+  A1-violation n=2000: done
+  A1-violation n=5000: done
+  A1-violation n=10000: done
+  saved results/a1_violation_gMission.csv (75 rows)
+  saved figs/paper/a1_bundle_size_gmission.png
+[A1] bucket-inconsistency bundle (gMission, base=2000)
+  A1-bucket k=50 rep=0: gen=15990ms
+  A1-bucket k=100 rep=0: gen=31470ms
+  A1-bucket k=200 rep=0: gen=61335ms
+  A1-bucket k=500 rep=0: gen=154082ms
+  A1-bucket k=50 rep=1: gen=15756ms
+  A1-bucket k=100 rep=1: gen=30906ms
+  A1-bucket k=200 rep=1: gen=61884ms
+  A1-bucket k=500 rep=1: gen=155321ms
+  A1-bucket k=50 rep=2: gen=16559ms
+  A1-bucket k=100 rep=2: gen=30807ms
+  A1-bucket k=200 rep=2: gen=62853ms
+  A1-bucket k=500 rep=2: gen=154807ms
+  saved results/a1_bucket_gMission.csv (12 rows)
+  saved figs/paper/a1_bucket_gmission.png
+[A2] batch witness precomputation (gMission)
+  A2 n=500: done
+  A2 n=1000: done
+  A2 n=2000: done
+  A2 n=5000: done
+  A2 n=10000: done
+  saved results/a2_batch_gMission.csv (25 rows)
+  saved figs/paper/a2_batch_gmission.png
+[A4] ADS storage (gMission)
+  A4 n=500: done
+  A4 n=1000: done
+  A4 n=2000: done
+  A4 n=5000: done
+  A4 n=10000: done
+  saved results/a4_storage_gMission.csv (45 rows)
+  saved figs/paper/a4_storage_gmission.png
+[A1] violation bundle (EverySender)
+  A1-violation n=500: done
+  A1-violation n=1000: done
+  A1-violation n=2000: done
+  A1-violation n=5000: done
+  A1-violation n=10000: done
+  saved results/a1_violation_EverySender.csv (75 rows)
+  saved figs/paper/a1_bundle_size_everysender.png
+[A1] bucket-inconsistency bundle (EverySender, base=2000)
+  A1-bucket k=50 rep=0: gen=15595ms
+  A1-bucket k=100 rep=0: gen=31107ms
+  A1-bucket k=200 rep=0: gen=61979ms
+  A1-bucket k=500 rep=0: gen=165239ms
+  A1-bucket k=50 rep=1: gen=16612ms
+  A1-bucket k=100 rep=1: gen=32757ms
+  A1-bucket k=200 rep=1: gen=65403ms
+  A1-bucket k=500 rep=1: gen=164138ms
+  A1-bucket k=50 rep=2: gen=16773ms
+  A1-bucket k=100 rep=2: gen=32684ms
+  A1-bucket k=200 rep=2: gen=65936ms
+  A1-bucket k=500 rep=2: gen=171458ms
+  saved results/a1_bucket_EverySender.csv (12 rows)
+  saved figs/paper/a1_bucket_everysender.png
+[A2] batch witness precomputation (EverySender)
+  A2 n=500: done
+  A2 n=1000: done
+  A2 n=2000: done
+  A2 n=5000: done
+  A2 n=10000: done
+  saved results/a2_batch_EverySender.csv (25 rows)
+  saved figs/paper/a2_batch_everysender.png
+[A4] ADS storage (EverySender)
+  A4 n=500: done
+  A4 n=1000: done
+  A4 n=2000: done
+  A4 n=5000: done
+  A4 n=10000: done
+  saved results/a4_storage_EverySender.csv (45 rows)
+  saved figs/paper/a4_storage_everysender.png
+Total wall time: 2356.3s
